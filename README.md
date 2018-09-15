@@ -1,8 +1,11 @@
 # DDoS
 
 To run the Master bot use the following command line argument
+
 -p portNumbber
+
 To run SlaveBot Use the following Command line argument
+
 -h hostaddressOf Master -p PortAddressOfMasterBot
 
 
